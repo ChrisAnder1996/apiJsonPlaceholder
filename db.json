@@ -1,0 +1,19 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/c574aade-f5b4-42ae-9d92-6b05e7919f4d.png",
+            "name": "Html-canvas"
+        },
+        {
+            "id": 2,
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/85d3d7e4-19db-4cff-a4cb-cbead813b6b5.png",
+            "name": "Python"
+        },
+        {
+            "id": 3,
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/1bada4e8-4bab-4be8-8f2e-83e285515187.png",
+            "name": "Arduino"
+        }
+    ]
+}
